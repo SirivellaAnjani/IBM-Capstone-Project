@@ -1,7 +1,7 @@
 ### Important: Run 1-Jobs_API.ipynb before any notebook
 
-
-
+0-REFERENCE-How-To-Get-API-Data.md
+- Technical details to access the API.
 
 0-REFERENCE-Accessing_APIs_review_lab.ipynb
 - Use this notebook for reviewing APIs
