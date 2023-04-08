@@ -31,5 +31,33 @@ You will be evaluated using quizzes in each module as well as the final project 
 ## SUMMARY
 
 
+## SKILLS
+Skills you'll gain
+Category: Data Analysis
+Data Analysis
+Category: Python Programming
+Python Programming
+Category: Probability & Statistics
+Probability & Statistics
+Category: General Statistics
+General Statistics
+Category: Probability Distribution
+Probability Distribution
+Category: Regression
+Regression
+Category: Data Visualization
+Data Visualization
+Category: Data Structures
+Data Structures
+Category: Data Visualization Software
+Data Visualization Software
+Category: HTML and CSS
+HTML and CSS
+Category: Machine Learning
+Machine Learning
+Category: Statistical Programming
+Statistical Programmin
+
+
 
 
