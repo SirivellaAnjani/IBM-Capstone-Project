@@ -1,7 +1,10 @@
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/122895160/230727703-962fd0dc-2517-43ef-9559-82f992393560.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/122895160/230727659-ad586d9c-857c-46b9-89c8-9a816b7ebb96.png" width="100" />
-</p>
+<div align="left">
+  <span><img src="https://user-images.githubusercontent.com/122895160/230727659-ad586d9c-857c-46b9-89c8-9a816b7ebb96.png" width=200 /></span>
+  <span><img src="https://user-images.githubusercontent.com/122895160/230728045-ad453dfd-c915-4818-b400-18143918c2c2.png" height=150 width=50 /></span>
+  <span><img src="https://user-images.githubusercontent.com/122895160/230727703-962fd0dc-2517-43ef-9559-82f992393560.png" width=200 /></span>
+
+</div>
+
 
 # IBM-Capstone-Project
 IBM Capstone Project:  Identifying trends for this year's report on emerging skills
@@ -30,36 +33,5 @@ You will be evaluated using quizzes in each module as well as the final project 
 ## SUMMARY
 
 
-
-
-## MODULES
-Module 1: Data Collection
-- Collecting Data Using APIs
-- Collecting Data Using Webscraping
-- Exploring Data
-
-Module 2: Data Wrangling
-- Finding Missing Values
-- Determine Missing Values
-- Finding Duplicates
-- Removing Duplicates
-- Normalizing Data
-
-Module 3: Exploratory Data Analysis
-- Distribution
-- Outliers
-- Correlation
-
-Module 4: Data Visualization
-- Visualizing Distribution of Data
-- Relationship
-- Composition
-- Comparison
-
-Module 5: Dashboard Creation
-- Dashboards
-
-Module 6: Presentation of Findings
-- Final Presentation
 
 
