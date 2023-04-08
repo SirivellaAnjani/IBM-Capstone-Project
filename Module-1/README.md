@@ -1,6 +1,6 @@
 ### Important: Run 1-Jobs_API.ipynb before any notebook
 
-[0-REFERENCE-How-To-Get-API-Data.md](/0-REFERENCE-How-To-Get-API-Data.md)
+[0-REFERENCE-How-To-Get-API-Data.md](Module-1/0-REFERENCE-How-To-Get-API-Data.md)
 - Technical details to access the API.
 
 [0-REFERENCE-Accessing_APIs_review_lab.ipynb](https://github.com/SirivellaAnjani/IBM-Capstone-Project/blob/a70d2047cab24a187e1a01d54fb6c608d55332ba/Module-1/0-REFERENCE-Accessing_APIs_review_lab.ipynb)
