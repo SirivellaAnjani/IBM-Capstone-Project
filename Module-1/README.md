@@ -1,5 +1,3 @@
-### Important: Run 1-Jobs_API.ipynb before any notebook
-
 [0-REFERENCE-How-To-Get-API-Data.md](0-REFERENCE-How-To-Get-API-Data.md)
 - Technical details to access the API.
 
@@ -9,6 +7,8 @@
 
 [1-Jobs_API.ipynb](1-Jobs_API.ipynb)
 - Run this notebook to create a clean JSON file of job postings
+
+**Important: Run 1-Jobs_API.ipynb first, as we later reference the json object created here**
 
 [2-Collecting_Jobs_data_Using_API-Questions.ipynb](2-Collecting_Jobs_data_Using_API-Questions.ipynb)
 - Run to collect jobs based on parameters
