@@ -1,3 +1,8 @@
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/122895160/230727703-962fd0dc-2517-43ef-9559-82f992393560.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/122895160/230727659-ad586d9c-857c-46b9-89c8-9a816b7ebb96.png" width="100" />
+</p>
+
 # IBM-Capstone-Project
 IBM Capstone Project:  Identifying trends for this year's report on emerging skills
 
