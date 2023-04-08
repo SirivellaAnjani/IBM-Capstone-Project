@@ -5,6 +5,7 @@
 
 0-REFERENCE-Accessing_APIs_review_lab.ipynb
 - Use this notebook for reviewing APIs
+- In the Python for Data Science course you learned to use REST APIs. However, if you require a refresher for invoking REST APIs from Python, please complete this lab before you move to the next one.
 
 1-Jobs_API.ipynb
 - Run this notebook to create a clean JSON file of job postings
