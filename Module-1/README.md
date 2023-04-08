@@ -1,5 +1,6 @@
-## Important
-Run 1-Jobs_API.ipynb before any notebook
+### Important: Run 1-Jobs_API.ipynb before any notebook
+
+
 
 
 0-REFERENCE-Accessing_APIs_review_lab.ipynb
