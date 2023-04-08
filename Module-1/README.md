@@ -1,7 +1,7 @@
 [REF-1-Accessing_APIs_review_lab](REF-1-Accessing_APIs_review_lab.ipynb)
 - Technical details to access the API.
 
-[0-REFERENCE-Accessing_APIs_review_lab.ipynb](https://github.com/SirivellaAnjani/IBM-Capstone-Project/blob/a70d2047cab24a187e1a01d54fb6c608d55332ba/Module-1/0-REFERENCE-Accessing_APIs_review_lab.ipynb)
+[REF-2-How-To-Get-API-Data](REF-2-How-To-Get-API-Data.md)
 - Use this notebook for reviewing APIs
 - In the Python for Data Science course you learned to use REST APIs. However, if you require a refresher for invoking REST APIs from Python, please complete this lab before you move to the next one.
 
