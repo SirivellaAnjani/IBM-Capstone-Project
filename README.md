@@ -1,13 +1,11 @@
 <div align="left">
   <span><img src="https://user-images.githubusercontent.com/122895160/230727659-ad586d9c-857c-46b9-89c8-9a816b7ebb96.png" width=200 /></span>
-  <span><img src="https://user-images.githubusercontent.com/122895160/230728045-ad453dfd-c915-4818-b400-18143918c2c2.png" height=150 width=50 /></span>
+  <span><img src="https://user-images.githubusercontent.com/122895160/230728045-ad453dfd-c915-4818-b400-18143918c2c2.png" height=150 width=30 /></span>
   <span><img src="https://user-images.githubusercontent.com/122895160/230727703-962fd0dc-2517-43ef-9559-82f992393560.png" width=200 /></span>
-
 </div>
 
-
-# IBM-Capstone-Project
-IBM Capstone Project:  Identifying trends for this year's report on emerging skills
+# IBM Capstone Project
+Identifying trends for this year's report on emerging skills
 
 ## PROBLEM STATEMENT
 You have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants.  In order to keep pace with changing technologies and remain competitive, your organization regularly analyzes data to help identify future skill requirements. 
