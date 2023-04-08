@@ -3,7 +3,7 @@
 0-REFERENCE-How-To-Get-API-Data.md
 - Technical details to access the API.
 
-[0-REFERENCE-Accessing_APIs_review_lab.ipynb](Module-1/0-REFERENCE-Accessing_APIs_review_lab.ipynb)
+[0-REFERENCE-Accessing_APIs_review_lab.ipynb](/0-REFERENCE-Accessing_APIs_review_lab.ipynb)
 - Use this notebook for reviewing APIs
 - In the Python for Data Science course you learned to use REST APIs. However, if you require a refresher for invoking REST APIs from Python, please complete this lab before you move to the next one.
 
