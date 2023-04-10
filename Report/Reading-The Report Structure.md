@@ -1,10 +1,10 @@
 
 
 Course Text Book: ‘Getting Started with Data Science’ Publisher: IBM Press; 1 edition (Dec 13 2015) Print.
-
 Author: Murtaza Haider
+------
 Prescribed Reading: Chapter 3 Pg. 60-62
-
+-------
 The Report Structure
 Before starting the analysis, think about the structure of the report. Will it be a brief report of five or fewer pages, or will it be a longer document running more than 100 pages in length? The structure of the report depends on the length of the document. A brief report is more to the point and presents a summary of key findings. A detailed report incrementally builds the argument and contains details about other relevant works, research methodology, data sources, and intermediate findings along with the main results.
 
