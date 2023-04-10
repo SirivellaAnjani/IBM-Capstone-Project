@@ -34,3 +34,20 @@
        - You might also identify future possible developments in research and applications that could result from your research
 5. Acknowledgments
     -  acknowledging the support of those who have enabled your work is always good
+
+
+## Checklist of Writing
+
+□ Have you told readers, at the outset, what they might gain by reading your paper?
+
+□ Have you made the aim of your work clear?
+
+□ Have you explained the significance of your contribution?
+
+□ Have you set your work in the appropriate context by giving sufficient background (including a complete set of relevant references) to your work?
+
+□ Have you addressed the question of practicality and usefulness?
+
+□ Have you identified future developments that might result from your work?
+□ Have you structured your paper in a clear and logical fashion?
+
