@@ -30,7 +30,7 @@ You will be evaluated using quizzes in each module as well as the final project 
 
 ## SUMMARY
 
-(Dashboard)[https://eu-de.dataplatform.cloud.ibm.com/dashboards/31be9b4e-107a-4497-9806-0fd5ad9d5388/view/5129e07b3d972bf04ed4bde407cc7f057d61705ab6bb8002d4d07b490d687197f3381792c87a495888430230a7ec435ece]
+[Dashboard](https://eu-de.dataplatform.cloud.ibm.com/dashboards/31be9b4e-107a-4497-9806-0fd5ad9d5388/view/5129e07b3d972bf04ed4bde407cc7f057d61705ab6bb8002d4d07b490d687197f3381792c87a495888430230a7ec435ece)
 
 
 
