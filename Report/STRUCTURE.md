@@ -11,8 +11,6 @@
     -  lists of tables and figures 
 3. Executive Summary
     -  explaining the crux of your arguments in three paragraphs or less
-   
-
 4. Detailed Contents
     -  introductory section
     -  literature review section 
@@ -31,7 +29,8 @@
      - discussion section
        - where you craft your main arguments by building on the results you have presented earlier.
        - The "discussion section" is where you rely on the power of narrative to enable numbers to communicate your thesis to your readers. You refer the reader to the research question and the knowledge gaps you identified earlier. You highlight how your findings provide the ultimate missing piece to the puzzle.
+     - conclusion section 
+       - you generalize your specific findings and take on a rather marketing approach to promote your findings so that the reader does not remain stuck in the caveats that you have voluntarily outlined earlier. 
+       - You might also identify future possible developments in research and applications that could result from your research
 5. Acknowledgments
-    -  
-6. References
-    -  asdf
+    -  acknowledging the support of those who have enabled your work is always good
